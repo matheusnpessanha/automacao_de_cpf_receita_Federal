@@ -1,3 +1,4 @@
 *.json
 arquivo_saida.py
 *.pyc
+/__pycache__
