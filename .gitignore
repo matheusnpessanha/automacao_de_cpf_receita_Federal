@@ -1,2 +1,3 @@
 *.json
 arquivo_saida.py
+*.pyc
